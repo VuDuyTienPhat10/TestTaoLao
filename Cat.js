@@ -6,6 +6,8 @@ function Cat(){
 	
 	this.master="A";
 	this.fourth=4;
+	this.fifth=5;
+	
 
 	
 	
