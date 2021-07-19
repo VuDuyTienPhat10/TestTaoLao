@@ -4,6 +4,7 @@ function Cat(){
 	this.age =1;
 	this.name="mimi";
 	
+	this.master="A";
 	
 }
 
