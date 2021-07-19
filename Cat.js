@@ -5,6 +5,9 @@ function Cat(){
 	this.name="mimi";
 	
 	this.master="A";
+	this.fourth=4;
+
+	
 	
 }
 
